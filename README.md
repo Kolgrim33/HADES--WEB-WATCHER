@@ -3,8 +3,6 @@
 
 > Searches the web for a username across 34 platforms and extracts deep profile intelligence from Reddit, GitHub, Instagram, Twitter/X, TikTok, Snapchat, Facebook, Discord, Dev.to, and HackerNews.
 
----
-
 ## Requirements
 
 - Linux (any distro — tested on Ubuntu/Debian/Kali)
@@ -12,7 +10,6 @@
 - pip3
 - Internet connection
 
----
 
 ## Step 1 — Check Python is installed
 
@@ -28,7 +25,7 @@ You should see something like `Python 3.10.12`. If you get `command not found`, 
 sudo apt update && sudo apt install python3 python3-pip -y
 ```
 
----
+
 
 ## Step 2 — Download the script
 
